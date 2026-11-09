@@ -55,6 +55,7 @@
         <module>core</module>
         <module>jersey</module>
         <module>resteasy</module>
+        <module>bes-jaxrs</module>
         <module>cxf</module>
         <module>tck</module>
         <module>ext</module>
